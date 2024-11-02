@@ -2,7 +2,7 @@
 This project demonstrates a sentiment analysis model using BERT for text classification. The model leverages TensorFlow and ktrain, a wrapper for TensorFlow Keras, which simplifies the model-building and training process.
 
 ## Overview
-The project uses the IMDB movie reviews dataset to classify sentiments as either positive or negative. It employs the BERT language model, known for its state-of-the-art performance in NLP tasks. By integrating ktrain with TensorFlow, the model achieves efficient training, evaluation, and deployment.
+The project uses the IMDB movie reviews dataset to classify sentiments as either positive or negative. It employs the BERT language model, known for its state-of-the-art performance in NLP tasks. By integrating ktrain with TensorFlow, the model achieves efficient training and evaluation.
 
 ## Requirements
 To run this project, install the required Python packages:
